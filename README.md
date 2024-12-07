@@ -1,7 +1,7 @@
-# python_script
 
 
+Huggingface api key required.
 
-# huggingface api key required.
+Help to optimize words by command+c then command+v.
 
-# help to optimize words by command+c then command+v.
+Model is Qwen/Qwen2.5-Coder-32B-Instruct.
